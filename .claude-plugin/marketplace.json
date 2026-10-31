@@ -4371,7 +4371,7 @@
     {
       "name": "buddy-chat",
       "description": "End-to-end encrypted, quantum-resistant chat between Claude Code users: direct chats, groups and read receipts in a pane, with no server to run.",
-      "version": "0.21.0",
+      "version": "0.21.2",
       "author": {
         "name": "MrMirhan",
         "url": "https://github.com/MrMirhan"
@@ -4392,7 +4392,7 @@
       "source": {
         "source": "github",
         "repo": "MrMirhan/claude-buddy-chat",
-        "sha": "04f917e876be4cd5baebe350afc6211e63e3d49c"
+        "sha": "9b18f8303ad4d3ceb0365b410f570221701c4b96"
       }
     },
     {
